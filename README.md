@@ -124,7 +124,7 @@ Then navigate to `http://localhost:8000` in your browser.
 
 ## Contact
 
-Norman Navarro - [norman18navarro@hotmail.com](mailto:norman18navarro@hotmail.com)
+Norman Navarro - [norman-navarro@norman-webdesigner.com](mailto:norman-navarro@norman-webdesigner.com)
 
 GitHub: [@Robotic1804](https://github.com/Robotic1804)
 
